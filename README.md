@@ -11,3 +11,20 @@ A supervisão das vacinas seria realizada através do controle de seu estoque, p
 No escopo do projeto há 2 atores com papéis bem definidos, administrador e aplicador. O papel do administrador é de cadastrar o tipo de vacina, fornecendo as informações do fornecedor e tipo de  dose da vacina (única ou dupla).
     
 Por outro lado, o papel do aplicador é de cadastrar os lotes de vacinas (dados os tipos de vacinas disponíveis pelo cadastro do administrador). Além disso, o aplicador poderá realizar o cadastro de uma pessoa a partir de suas informações, como nome, CPF e carteira SUS. Uma pessoa está atrelada a um registro de vacinação, indicando o tipo de vacina ao qual esta pessoa foi vacinada. Ademais, é possível que o aplicante informe ao sistema que uma pessoa foi vacinada com a primeira ou segunda dose (além de verificar se ela já foi vacinada com determinada vacina). Por  fim o aplicante pode consultar o status das vacinas presentes no sistema.
+
+---
+## Links da atividade
+
+### Diagrama de sequência
+* [[RF01] - Login](https://drive.google.com/file/d/1F_GASrO1Re9AKNO_-3hggU83QNv9jCPO/view?usp=sharing)
+* [[RF02] - Cadastro de usuário](https://lucid.app/lucidchart/invitations/accept/inv_02fe9c26-1a65-4413-9112-53df40e4de78?viewport_loc=-80%2C234%2C1960%2C779%2C0_0)
+* [[RF03] - Cadastrar aplicador]()
+* [[RF04] - Cadastrar tipo de vacina](https://drive.google.com/file/d/1R6mdOq9nsFa97wtaVjabVrPPJASd_YFI/view?usp=sharing)
+* [[RF05] - Cadastro de lotes de vacina](https://lucid.app/lucidchart/d5e164cf-4610-4208-b457-6a193e076bbd/edit?viewport_loc=-80%2C234%2C1960%2C779%2C0_0&shared=true )
+
+### Diagrama de atividades
+[Link do diagrama de atividades](https://lucid.app/lucidchart/invitations/accept/inv_38708c84-4cf5-4afa-8c18-19fb701c0fa9)
+
+### Diagrama de classes
+[Link para o diagrama de classes](https://drive.google.com/file/d/1zXoCOS37-ne3jGaX4f6_DTJNKm6Hvp2t/view?usp=sharing)
+
