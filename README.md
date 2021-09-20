@@ -13,6 +13,13 @@ No escopo do projeto há 2 atores com papéis bem definidos, administrador e apl
 Por outro lado, o papel do aplicador é de cadastrar os lotes de vacinas (dados os tipos de vacinas disponíveis pelo cadastro do administrador). Além disso, o aplicador poderá realizar o cadastro de uma pessoa a partir de suas informações, como nome, CPF e carteira SUS. Uma pessoa está atrelada a um registro de vacinação, indicando o tipo de vacina ao qual esta pessoa foi vacinada. Ademais, é possível que o aplicante informe ao sistema que uma pessoa foi vacinada com a primeira ou segunda dose (além de verificar se ela já foi vacinada com determinada vacina). Por  fim o aplicante pode consultar o status das vacinas presentes no sistema.
 
 ---
+### Membros do grupo 
+* Pedro Henrique de Oliveira Silva - 119110108
+* Adeildo Lucas Guerra Pereira - 119110614
+* Vitor Mota Leite Diniz - 118210379
+* Jaciane de Oliveira Cruz - 118110412
+* Henrique Lopes Nóbrega - 119110534
+---
 ## Links da atividade
 
 ### Diagrama de sequência
