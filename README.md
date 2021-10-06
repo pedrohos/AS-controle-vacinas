@@ -37,6 +37,8 @@ Por outro lado, o papel do aplicador é de cadastrar os lotes de vacinas (dados 
 
 ### Pôster de apresentação
 [Link para o pôster de apresentação](https://drive.google.com/file/d/17l5dgXqDDqe0w4h6brBVqEeyKJR3qVvc/view)
+<br>
+<img src="https://github.com/pedrohos/AS-controle-vacinas/blob/main/AS%20-%20P%C3%B4ster%20de%20Apresenta%C3%A7%C3%A3o%20do%20Projeto.png" width="650" height="450"> 
 
 ### Vídeo da apresentação
 [Link para o vídeo de apresentação](https://drive.google.com/file/d/1sujsctgpLDiNCCuoFzdyK_YMZctC6SQ2/view)
