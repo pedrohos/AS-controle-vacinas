@@ -35,3 +35,9 @@ Por outro lado, o papel do aplicador é de cadastrar os lotes de vacinas (dados 
 ### Diagrama de classes
 [Link para o diagrama de classes](https://drive.google.com/file/d/1zXoCOS37-ne3jGaX4f6_DTJNKm6Hvp2t/view?usp=sharing)
 
+### Pôster de apresentação
+[Link para o pôster de apresentação](https://drive.google.com/file/d/17l5dgXqDDqe0w4h6brBVqEeyKJR3qVvc/view)
+
+### Vídeo da apresentação
+[Link para o vídeo de apresentação](https://drive.google.com/file/d/1sujsctgpLDiNCCuoFzdyK_YMZctC6SQ2/view)
+
